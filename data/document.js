@@ -13,9 +13,17 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"huanjian",
+        "pageName":"index",
         "type":"Wireframe",
-        "url":"huanjian.html"}]},
+        "url":"index.html",
+        "children":[{
+            "pageName":"fuwu",
+            "type":"Wireframe",
+            "url":"fuwu.html"},
+{
+            "pageName":"tuandui",
+            "type":"Wireframe",
+            "url":"tuandui.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

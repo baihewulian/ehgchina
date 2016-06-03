@@ -23,7 +23,19 @@
 {
             "pageName":"tuandui",
             "type":"Wireframe",
-            "url":"tuandui.html"}]}]},
+            "url":"tuandui.html"}]},
+{
+        "pageName":"indexEN",
+        "type":"Wireframe",
+        "url":"indexen.html",
+        "children":[{
+            "pageName":"fuwuEN",
+            "type":"Wireframe",
+            "url":"fuwuen.html"},
+{
+            "pageName":"tuanduiEN",
+            "type":"Wireframe",
+            "url":"tuanduien.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

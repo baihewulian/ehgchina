@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tuandui.html",
-  "generationDate":new Date(1465182573859.36),
+  "generationDate":new Date(1465204483434.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

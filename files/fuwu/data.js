@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"fuwu.html",
-  "generationDate":new Date(1465182573509.34),
+  "generationDate":new Date(1465204483017.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

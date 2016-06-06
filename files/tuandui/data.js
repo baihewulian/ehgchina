@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tuandui.html",
-  "generationDate":new Date(1464936678901.59),
+  "generationDate":new Date(1465182573859.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -820,7 +820,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"474315e1718b4265a00b1be1e7c01a5f",
           "label":"3",
@@ -843,7 +843,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"4dca57a35e1a490d91dad3f5db40f893",
           "label":"",
@@ -2152,7 +2152,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u72.png"}},
+            "normal~":"images/index/u68.png"}},
 {
           "id":"0c7bc6d7722c4c4c991f37283ca07b42",
           "label":"",
@@ -2193,7 +2193,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u76.png"}},
+            "normal~":"images/index/u72.png"}},
 {
           "id":"ea73abcb7edc402da1a2c36f7750414b",
           "label":"",
@@ -2312,7 +2312,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u78.png"}},
+            "normal~":"images/index/u74.png"}},
 {
           "id":"1d413d58951348f6a13438d92e3a0481",
           "label":"",
@@ -2353,7 +2353,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u80.png"}},
+            "normal~":"images/index/u76.png"}},
 {
           "id":"5e6e80259c29473495bbd57ca7c37644",
           "label":"",
@@ -2592,7 +2592,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"44a58477c38342b0a799e544c3327b04",
           "label":"cont",
@@ -2641,7 +2641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/cont_u106.png"}},
+            "normal~":"images/index/cont_u102.png"}},
 {
           "id":"0257832744a94e96b9a2a9e5cf2fec5e",
           "label":"email",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tuanduien.html",
-  "generationDate":new Date(1464936679724.64),
+  "generationDate":new Date(1465182574523.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1815,7 +1815,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u72.png"}},
+            "normal~":"images/index/u68.png"}},
 {
           "id":"0c7bc6d7722c4c4c991f37283ca07b42",
           "label":"",
@@ -1856,7 +1856,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u76.png"}},
+            "normal~":"images/index/u72.png"}},
 {
           "id":"ea73abcb7edc402da1a2c36f7750414b",
           "label":"",
@@ -2018,7 +2018,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u78.png"}},
+            "normal~":"images/index/u74.png"}},
 {
           "id":"cc27cc2c55f242b69e9165968855d038",
           "label":"",
@@ -2059,7 +2059,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u80.png"}},
+            "normal~":"images/index/u76.png"}},
 {
           "id":"1e3c48bfae0a4b3884f08ec5ed98f573",
           "label":"",
@@ -2598,7 +2598,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"913b31efceff4091981d8be8803d8a80",
           "label":"2",
@@ -2622,7 +2622,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"5bea011e5e88490fa25c5247b46fef6a",
           "label":"3",
@@ -2645,7 +2645,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"532c61a3873846e4a32be0d72ad04c2c",
           "label":"4",
@@ -2669,7 +2669,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"6a99d928e2434e1b93ce8a033bcec88b",
           "label":"cont",
@@ -2718,7 +2718,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/cont_u106.png"}},
+            "normal~":"images/index/cont_u102.png"}},
 {
           "id":"b72f40d00e6d4b90aeed0f28b8304acb",
           "label":"email",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"fuwu.html",
-  "generationDate":new Date(1464936678602.58),
+  "generationDate":new Date(1465182573509.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1570,7 +1570,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u72.png"}},
+            "normal~":"images/index/u68.png"}},
 {
           "id":"bd7714fb8dc844a8be9ef392d1db34ec",
           "label":"",
@@ -1611,7 +1611,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u76.png"}},
+            "normal~":"images/index/u72.png"}},
 {
           "id":"43a3315937ef4cc6ad524523364a73d2",
           "label":"",
@@ -1928,7 +1928,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"287f9d32d1a841f9888fd74f66946d15",
           "label":"2",
@@ -1951,7 +1951,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"422fde215d0b4f0292f541312a222a4d",
           "label":"3",
@@ -1975,7 +1975,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/3_u96_line.png"}},
+            "line~":"images/index/3_u92_line.png"}},
 {
           "id":"0bb18bb20a5d4172b311ad20bcae13c2",
           "label":"",
@@ -2012,7 +2012,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u78.png"}},
+            "normal~":"images/index/u74.png"}},
 {
           "id":"7779a894d33c426a992a1281ba392b82",
           "label":"",
@@ -2053,7 +2053,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u80.png"}},
+            "normal~":"images/index/u76.png"}},
 {
           "id":"29c22e7f7cec4570aff63de3bc6960d6",
           "label":"",
@@ -2292,7 +2292,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/1_u94_line.png"}},
+            "line~":"images/index/1_u90_line.png"}},
 {
           "id":"2815e9174f6c4d149b5319c98f3a02af",
           "label":"cont",
@@ -2341,7 +2341,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/cont_u106.png"}},
+            "normal~":"images/index/cont_u102.png"}},
 {
           "id":"7708f721e8c24978b89a4fdd4ce3134d",
           "label":"email",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tuandui.html",
-  "generationDate":new Date(1465204483434.21),
+  "generationDate":new Date(1465269292703.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -739,7 +739,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":650,
+              "x":646,
               "y":24},
             "size":{
               "width":100,
@@ -763,7 +763,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":650,
+                  "x":646,
                   "y":24},
                 "size":{
                   "width":100,
@@ -829,7 +829,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":672,
+              "x":668,
               "y":43},
             "size":{
               "width":25,
@@ -1032,14 +1032,15 @@
           "visible":true,
           "style":{
             "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"20px",
             "fontWeight":"400",
             "horizontalAlignment":"center",
             "verticalAlignment":"bottom",
             "location":{
-              "x":310,
+              "x":305.5,
               "y":310},
             "size":{
-              "width":98,
+              "width":107,
               "height":24}},
           "adaptiveStyles":{
 },
@@ -1052,14 +1053,15 @@
               "visible":true,
               "style":{
                 "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"20px",
                 "fontWeight":"400",
                 "horizontalAlignment":"center",
                 "verticalAlignment":"bottom",
                 "location":{
-                  "x":310,
+                  "x":305.5,
                   "y":310},
                 "size":{
-                  "width":98,
+                  "width":107,
                   "height":24}},
               "adaptiveStyles":{
 }}],
@@ -1163,14 +1165,15 @@
           "visible":true,
           "style":{
             "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"20px",
             "fontWeight":"400",
             "horizontalAlignment":"center",
             "verticalAlignment":"bottom",
             "location":{
-              "x":598.5,
+              "x":592,
               "y":310},
             "size":{
-              "width":145,
+              "width":157,
               "height":24}},
           "adaptiveStyles":{
 },
@@ -1183,14 +1186,15 @@
               "visible":true,
               "style":{
                 "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"20px",
                 "fontWeight":"400",
                 "horizontalAlignment":"center",
                 "verticalAlignment":"bottom",
                 "location":{
-                  "x":598.5,
+                  "x":592,
                   "y":310},
                 "size":{
-                  "width":145,
+                  "width":157,
                   "height":24}},
               "adaptiveStyles":{
 }}],
@@ -1650,7 +1654,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tuandui/u57.png"}},
+            "normal~":"images/tuandui/u57.jpg"}},
 {
           "id":"765bb8e7c85844edb2f79a8292861564",
           "label":"",
@@ -2505,20 +2509,13 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 email,<br>cont",
-                      "objectsToFades":[{
-                          "objectPath":["0257832744a94e96b9a2a9e5cf2fec5e"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"none"}}},
-{
-                          "objectPath":["44a58477c38342b0a799e544c3327b04"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"none"}}}]}]}]},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 lianxi",
+                      "target":{
+                        "targetType":"page",
+                        "url":"lianxi.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]},
             "onMouseOver":{
               "description":"OnMouseOver",
               "cases":[{
@@ -2593,119 +2590,6 @@
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
             "line~":"images/index/1_u90_line.png"}},
-{
-          "id":"44a58477c38342b0a799e544c3327b04",
-          "label":"cont",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":false,
-          "style":{
-            "verticalAlignment":"bottom",
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFF13C5B},
-            "location":{
-              "x":700,
-              "y":41},
-            "size":{
-              "width":235,
-              "height":28},
-            "visible":false,
-            "rotation":"180",
-            "textRotation":"180",
-            "borderWidth":"-1"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"53605eb7de574732bfa58b1e495c88df",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":false,
-              "style":{
-                "verticalAlignment":"bottom",
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFF13C5B},
-                "location":{
-                  "x":700,
-                  "y":41},
-                "size":{
-                  "width":235,
-                  "height":28},
-                "visible":false,
-                "rotation":"180",
-                "textRotation":"180",
-                "borderWidth":"-1"},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/index/cont_u102.png"}},
-{
-          "id":"0257832744a94e96b9a2a9e5cf2fec5e",
-          "label":"email",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":false,
-          "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "location":{
-              "x":706,
-              "y":51},
-            "size":{
-              "width":232,
-              "height":18},
-            "visible":false},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"80736094ddf943c8aa9466f98cbce6de",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":false,
-              "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFFFF,
-                  "opacity":1},
-                "location":{
-                  "x":706,
-                  "y":51},
-                "size":{
-                  "width":232,
-                  "height":18},
-                "visible":false},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onMouseOut":{
-              "description":"OnMouseOut",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"fadeWidget",
-                      "description":"隐藏 email,<br>cont",
-                      "objectsToFades":[{
-                          "objectPath":["0257832744a94e96b9a2a9e5cf2fec5e"],
-                          "fadeInfo":{
-                            "fadeType":"hide",
-                            "options":{
-                              "showType":"none"}}},
-{
-                          "objectPath":["44a58477c38342b0a799e544c3327b04"],
-                          "fadeInfo":{
-                            "fadeType":"hide",
-                            "options":{
-                              "showType":"none"}}}]}]}]}},
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
 {
           "id":"21b3401af90340eeaf86fc341d47ac76",
           "label":"",
@@ -2952,15 +2836,7 @@
       "scriptId":"u98"},
     "1a9b3b22c2544f8c9cc249ca0354ac7d":{
       "scriptId":"u99"},
-    "44a58477c38342b0a799e544c3327b04":{
-      "scriptId":"u100"},
-    "53605eb7de574732bfa58b1e495c88df":{
-      "scriptId":"u101"},
-    "0257832744a94e96b9a2a9e5cf2fec5e":{
-      "scriptId":"u102"},
-    "80736094ddf943c8aa9466f98cbce6de":{
-      "scriptId":"u103"},
     "21b3401af90340eeaf86fc341d47ac76":{
-      "scriptId":"u104"},
+      "scriptId":"u100"},
     "490f6e7bbd85404eb453ec591dcba0b2":{
-      "scriptId":"u105"}}});
+      "scriptId":"u101"}}});

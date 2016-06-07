@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"indexen.html",
-  "generationDate":new Date(1465204483653.23),
+  "generationDate":new Date(1465269292982.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1975,20 +1975,13 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 cont,<br>email",
-                      "objectsToFades":[{
-                          "objectPath":["0488311b363e434fa7edd652b9b4855f"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"none"}}},
-{
-                          "objectPath":["9aa7f7d09cce448abe67a07414a68a16"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"none"}}}]}]}]},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 lianxiEN",
+                      "target":{
+                        "targetType":"page",
+                        "url":"lianxien.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]},
             "onMouseOver":{
               "description":"OnMouseOver",
               "cases":[{
@@ -2273,121 +2266,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"0488311b363e434fa7edd652b9b4855f",
-          "label":"cont",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":false,
-          "style":{
-            "verticalAlignment":"bottom",
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFF13C5B},
-            "location":{
-              "x":752,
-              "y":39},
-            "size":{
-              "width":235,
-              "height":28},
-            "visible":false,
-            "rotation":"180",
-            "textRotation":"180",
-            "borderWidth":"-1"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"9702b2cea8cc49079d8cff15684dd659",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":false,
-              "style":{
-                "verticalAlignment":"bottom",
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFF13C5B},
-                "location":{
-                  "x":752,
-                  "y":39},
-                "size":{
-                  "width":235,
-                  "height":28},
-                "visible":false,
-                "rotation":"180",
-                "textRotation":"180",
-                "borderWidth":"-1"},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/index/cont_u102.png"}},
-{
-          "id":"9aa7f7d09cce448abe67a07414a68a16",
-          "label":"email",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":false,
-          "style":{
-            "horizontalAlignment":"center",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "location":{
-              "x":733,
-              "y":47},
-            "size":{
-              "width":270,
-              "height":30},
-            "visible":false},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"e71a97321c4a466ba67aa1e3bd8da714",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":false,
-              "style":{
-                "horizontalAlignment":"center",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFFFF,
-                  "opacity":1},
-                "location":{
-                  "x":733,
-                  "y":47},
-                "size":{
-                  "width":270,
-                  "height":30},
-                "visible":false},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onMouseOut":{
-              "description":"OnMouseOut",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"fadeWidget",
-                      "description":"隐藏 email,<br>cont",
-                      "objectsToFades":[{
-                          "objectPath":["9aa7f7d09cce448abe67a07414a68a16"],
-                          "fadeInfo":{
-                            "fadeType":"hide",
-                            "options":{
-                              "showType":"none"}}},
-{
-                          "objectPath":["0488311b363e434fa7edd652b9b4855f"],
-                          "fadeInfo":{
-                            "fadeType":"hide",
-                            "options":{
-                              "showType":"none"}}}]}]}]}},
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"c7b3a1c46744429a842f8eafcf812369",
           "label":"",
           "type":"buttonShape",
@@ -2505,7 +2383,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u106.png"}},
+            "normal~":"images/index/u102.png"}},
 {
           "id":"c702347bdc214d12bf029fdba67a3c2d",
           "label":"",
@@ -2538,7 +2416,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/index/u108.png"}},
+            "normal~":"images/index/u104.png"}},
 {
           "id":"5a7fbeb9b54a43e5962cf90a82c0a8c7",
           "label":"",
@@ -2610,7 +2488,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/index/u114_line.png"}},
+            "line~":"images/index/u110_line.png"}},
 {
           "id":"48206e5c84704dc8b551ead58001fe5e",
           "label":"",
@@ -2851,37 +2729,29 @@
       "scriptId":"u96"},
     "747283d9dc0d481786c381a2745ff2b7":{
       "scriptId":"u97"},
-    "0488311b363e434fa7edd652b9b4855f":{
-      "scriptId":"u98"},
-    "9702b2cea8cc49079d8cff15684dd659":{
-      "scriptId":"u99"},
-    "9aa7f7d09cce448abe67a07414a68a16":{
-      "scriptId":"u100"},
-    "e71a97321c4a466ba67aa1e3bd8da714":{
-      "scriptId":"u101"},
     "c7b3a1c46744429a842f8eafcf812369":{
-      "scriptId":"u102"},
+      "scriptId":"u98"},
     "288c7c800e1a4b348484545e67ddf0d6":{
-      "scriptId":"u103"},
+      "scriptId":"u99"},
     "9c0b87e3295e4fa584b649449138c9eb":{
-      "scriptId":"u104"},
+      "scriptId":"u100"},
     "df33610ff43b4accb4819e799eb885d0":{
-      "scriptId":"u105"},
+      "scriptId":"u101"},
     "b0401bd9a69341d99f1af2d558d1cffc":{
-      "scriptId":"u106"},
+      "scriptId":"u102"},
     "39fee1d32de74456a0a6a95d896b71c1":{
-      "scriptId":"u107"},
+      "scriptId":"u103"},
     "c702347bdc214d12bf029fdba67a3c2d":{
-      "scriptId":"u108"},
+      "scriptId":"u104"},
     "704199ea4b92496f966dfde876dfffbe":{
-      "scriptId":"u109"},
+      "scriptId":"u105"},
     "5a7fbeb9b54a43e5962cf90a82c0a8c7":{
-      "scriptId":"u110"},
+      "scriptId":"u106"},
     "b122291c256a4a41b2f5c9dcc7616468":{
-      "scriptId":"u111"},
+      "scriptId":"u107"},
     "cd3fd8deca434fc1a8d9e265300fd884":{
-      "scriptId":"u112"},
+      "scriptId":"u108"},
     "48206e5c84704dc8b551ead58001fe5e":{
-      "scriptId":"u113"},
+      "scriptId":"u109"},
     "2306845dd7a049a9b25fbc04cd4a4554":{
-      "scriptId":"u114"}}});
+      "scriptId":"u110"}}});

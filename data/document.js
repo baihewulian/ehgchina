@@ -23,7 +23,11 @@
 {
             "pageName":"tuandui",
             "type":"Wireframe",
-            "url":"tuandui.html"}]},
+            "url":"tuandui.html"},
+{
+            "pageName":"lianxi",
+            "type":"Wireframe",
+            "url":"lianxi.html"}]},
 {
         "pageName":"indexEN",
         "type":"Wireframe",
@@ -35,7 +39,11 @@
 {
             "pageName":"tuanduiEN",
             "type":"Wireframe",
-            "url":"tuanduien.html"}]}]},
+            "url":"tuanduien.html"},
+{
+            "pageName":"lianxiEN",
+            "type":"Wireframe",
+            "url":"lianxien.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

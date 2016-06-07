@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"lianxi.html",
-  "generationDate":new Date(1465269292827.16),
+  "generationDate":new Date(1465281234458.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -11,7 +11,7 @@
 },
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
-      "pageAlignment":"near",
+      "pageAlignment":"center",
       "fill":{
         "fillType":"solid",
         "color":0xFFF7FBFC},

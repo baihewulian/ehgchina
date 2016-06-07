@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tuanduien.html",
-  "generationDate":new Date(1465269293389.19),
+  "generationDate":new Date(1465281235073.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

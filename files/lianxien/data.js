@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"lianxien.html",
-  "generationDate":new Date(1465269293517.2),
+  "generationDate":new Date(1465281235203.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -11,7 +11,7 @@
 },
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
-      "pageAlignment":"near",
+      "pageAlignment":"center",
       "fill":{
         "fillType":"solid",
         "color":0xFFF7FBFC},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tuandui.html",
-  "generationDate":new Date(1465281234325.17),
+  "generationDate":new Date(1465358669543.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -517,7 +517,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":488,
+              "x":498,
               "y":24},
             "size":{
               "width":79,
@@ -541,7 +541,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":488,
+                  "x":498,
                   "y":24},
                 "size":{
                   "width":79,
@@ -628,7 +628,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":567,
+              "x":577,
               "y":24},
             "size":{
               "width":71,
@@ -652,7 +652,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":567,
+                  "x":577,
                   "y":24},
                 "size":{
                   "width":71,
@@ -739,7 +739,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":646,
+              "x":656,
               "y":24},
             "size":{
               "width":100,
@@ -763,7 +763,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":646,
+                  "x":656,
                   "y":24},
                 "size":{
                   "width":100,
@@ -781,7 +781,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":498.5,
+              "x":508,
               "y":43},
             "size":{
               "width":27,
@@ -805,7 +805,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":590,
+              "x":600,
               "y":43},
             "size":{
               "width":25,
@@ -829,7 +829,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":668,
+              "x":678,
               "y":43},
             "size":{
               "width":25,
@@ -2471,7 +2471,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":735,
+              "x":745,
               "y":24},
             "size":{
               "width":78,
@@ -2495,7 +2495,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":735,
+                  "x":745,
                   "y":24},
                 "size":{
                   "width":78,
@@ -2574,7 +2574,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":748,
+              "x":758,
               "y":46},
             "size":{
               "width":25,

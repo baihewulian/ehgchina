@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"lianxi.html",
-  "generationDate":new Date(1465281234458.18),
+  "generationDate":new Date(1465358669669.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -64,7 +64,6 @@
           "visible":true,
           "style":{
             "fontSize":"12px",
-            "horizontalAlignment":"center",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFFFFFFFF,
@@ -73,7 +72,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":488,
+              "x":498,
               "y":24},
             "size":{
               "width":72,
@@ -89,7 +88,6 @@
               "visible":true,
               "style":{
                 "fontSize":"12px",
-                "horizontalAlignment":"center",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFFFFFFFF,
@@ -98,7 +96,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":488,
+                  "x":498,
                   "y":24},
                 "size":{
                   "width":72,
@@ -177,7 +175,6 @@
           "visible":true,
           "style":{
             "fontSize":"12px",
-            "horizontalAlignment":"center",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFFFFFFFF,
@@ -186,7 +183,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":562,
+              "x":577,
               "y":24},
             "size":{
               "width":83,
@@ -202,7 +199,6 @@
               "visible":true,
               "style":{
                 "fontSize":"12px",
-                "horizontalAlignment":"center",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFFFFFFFF,
@@ -211,7 +207,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":562,
+                  "x":577,
                   "y":24},
                 "size":{
                   "width":83,
@@ -290,7 +286,6 @@
           "visible":true,
           "style":{
             "fontSize":"12px",
-            "horizontalAlignment":"center",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFFFFFFFF,
@@ -299,7 +294,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":642,
+              "x":656,
               "y":24},
             "size":{
               "width":100,
@@ -315,7 +310,6 @@
               "visible":true,
               "style":{
                 "fontSize":"12px",
-                "horizontalAlignment":"center",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFFFFFFFF,
@@ -324,7 +318,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":642,
+                  "x":656,
                   "y":24},
                 "size":{
                   "width":100,
@@ -403,7 +397,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":511.5,
+              "x":508,
               "y":43},
             "size":{
               "width":25,
@@ -427,7 +421,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":585,
+              "x":600,
               "y":43},
             "size":{
               "width":25,
@@ -451,7 +445,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":680,
+              "x":678,
               "y":43},
             "size":{
               "width":24,
@@ -658,7 +652,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":744,
+              "x":745,
               "y":24},
             "size":{
               "width":78,
@@ -682,7 +676,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":744,
+                  "x":745,
                   "y":24},
                 "size":{
                   "width":78,
@@ -711,7 +705,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":757,
+              "x":758,
               "y":46},
             "size":{
               "width":25,

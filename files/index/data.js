@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"index.html",
-  "generationDate":new Date(1465281233743.14),
+  "generationDate":new Date(1465358669041.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1730,7 +1730,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":497,
+              "x":498,
               "y":24},
             "size":{
               "width":72,
@@ -1754,7 +1754,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":497,
+                  "x":498,
                   "y":24},
                 "size":{
                   "width":72,
@@ -1795,7 +1795,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":569,
+              "x":577,
               "y":24},
             "size":{
               "width":83,
@@ -1819,7 +1819,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":569,
+                  "x":577,
                   "y":24},
                 "size":{
                   "width":83,
@@ -1906,7 +1906,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":647,
+              "x":656,
               "y":24},
             "size":{
               "width":89,
@@ -1930,7 +1930,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":647,
+                  "x":656,
                   "y":24},
                 "size":{
                   "width":89,
@@ -2017,7 +2017,7 @@
               "mouseOver":{
                 "underline":true}},
             "location":{
-              "x":735,
+              "x":745,
               "y":24},
             "size":{
               "width":78,
@@ -2041,7 +2041,7 @@
                   "mouseOver":{
                     "underline":true}},
                 "location":{
-                  "x":735,
+                  "x":745,
                   "y":24},
                 "size":{
                   "width":78,
@@ -2120,8 +2120,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":506,
-              "y":46},
+              "x":508,
+              "y":43},
             "size":{
               "width":25,
               "height":10},
@@ -2143,7 +2143,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":587,
+              "x":595,
               "y":46},
             "size":{
               "width":25,
@@ -2167,7 +2167,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":670,
+              "x":678,
               "y":46},
             "size":{
               "width":24,
@@ -2191,7 +2191,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":748,
+              "x":758,
               "y":46},
             "size":{
               "width":25,

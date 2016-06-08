@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"fuwuen.html",
-  "generationDate":new Date(1465281234817.2),
+  "generationDate":new Date(1465358669980.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1634,8 +1634,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":856,
-              "y":20},
+              "x":857,
+              "y":21},
             "size":{
               "width":58,
               "height":22},
@@ -1652,8 +1652,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":856,
-                  "y":20},
+                  "x":857,
+                  "y":21},
                 "size":{
                   "width":58,
                   "height":22},
@@ -1674,8 +1674,8 @@
               "fillType":"solid",
               "color":0xFFD6323F},
             "location":{
-              "x":890,
-              "y":21},
+              "x":891,
+              "y":22},
             "size":{
               "width":20,
               "height":20},
@@ -1694,8 +1694,8 @@
                   "fillType":"solid",
                   "color":0xFFD6323F},
                 "location":{
-                  "x":890,
-                  "y":21},
+                  "x":891,
+                  "y":22},
                 "size":{
                   "width":20,
                   "height":20},
@@ -1716,8 +1716,8 @@
               "color":0xFFD6323F,
               "opacity":1},
             "location":{
-              "x":863,
-              "y":23},
+              "x":864,
+              "y":24},
             "size":{
               "width":14,
               "height":16}},
@@ -1736,8 +1736,8 @@
                   "color":0xFFD6323F,
                   "opacity":1},
                 "location":{
-                  "x":863,
-                  "y":23},
+                  "x":864,
+                  "y":24},
                 "size":{
                   "width":14,
                   "height":16}},
@@ -1772,8 +1772,8 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":891,
-              "y":23},
+              "x":892,
+              "y":24},
             "size":{
               "width":19,
               "height":16}},
@@ -1792,8 +1792,8 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":891,
-                  "y":23},
+                  "x":892,
+                  "y":24},
                 "size":{
                   "width":19,
                   "height":16}},
